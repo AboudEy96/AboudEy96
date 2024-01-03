@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abdulkadir</h1>
-<h3 align="center">Android and Windows Game Developer | Unity (C#) | Java | Minecraft Plugin Developer | Computer Science Student</h3>
-
-<p align="center">🚀 I'm currently working on Unity game projects.</p>
-
-<p align="center">🌱 I'm currently learning advanced Unity techniques and exploring Java and Minecraft plugin development.</p>
-
-<p align="center">👯 I'm open to collaboration on game development projects, Java-based applications, and Minecraft plugin ideas.</p>
+<h1 align="center">Hi , I'm Abdulkadir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer&center=true&width=500&height=50"></a>
+</p>
+<p align="center">🛠️ I'm currently working on Unity game projects and Bukkit plugins.</p>
 
 <p align="center">💬 Ask me about Unity and C# development, Android app development, Java programming, and Minecraft server customization.</p>
 
@@ -14,8 +11,6 @@
   <a href="https://www.instagram.com/_ak.25/" target="_blank">Instagram</a> |
   <a href="https://discordapp.com/users/741179550506942526" target="_blank">Discord</a>
 </p>
-
-  #  UwU 
 
 
 <h3 align="center">Languages and Tools:</h3>
